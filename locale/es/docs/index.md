@@ -21,7 +21,7 @@ relacionados al mismo. También indica qué métodos están disponibles para las
 
 También describe los módulos incluidos que proporciona Node.js, mas no documenta los módulos que proporciona la comunidad.
 
-<div class="highlight-box">
+<div class="light-background rounded-panel">
     <h4>¿Buscando la referencia de la API para una versión anterior?</h4>
 
     <ul>

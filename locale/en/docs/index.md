@@ -19,7 +19,7 @@ The [API reference documentation](/api/) provides detailed information about a f
 
 This documentation describes the built-in modules provided by Node.js. It does not document modules provided by the community.
 
-<div class="highlight-box">
+<div class="light-background rounded-panel">
     <h4>Looking for API docs of previous releases?</h4>
 
     <ul>

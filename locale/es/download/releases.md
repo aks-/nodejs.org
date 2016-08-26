@@ -7,7 +7,7 @@ modules: "<code>NODE_MODULE_VERSION</code> se refiere al número de versión ABI
 ### io.js &amp; Node.js
 Las versiones desde la 1.x hasta la 3.x fueron llamadas "io.js" ya que fueron parte del _fork_ io.js . Desde Node.js 4.0.0 las líneas de versiones de io.js convergieron con las de Node.js 0.12.x en una unificación de versiones de Node.js.
 
-<div class="highlight-box">
+<div class="light-background rounded-panel">
     Buscando las últimas versiones de una rama específica?
 
     <ul class="list-divider-pipe">

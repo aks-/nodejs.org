@@ -14,7 +14,7 @@ Node.js 4.0.0에서 io.js의 이전 릴리스 라인과 Node.js 0.12.x가 합쳐
 하나의 Node.js 릴리스가 되었습니다.
 
 <!--
-<div class="highlight-box">
+<div class="light-background rounded-panel">
     Looking for latest release of a version branch?
 
     <ul class="list-divider-pipe">
@@ -26,7 +26,7 @@ Node.js 4.0.0에서 io.js의 이전 릴리스 라인과 Node.js 0.12.x가 합쳐
     </ul>
 </div>
 -->
-<div class="highlight-box">
+<div class="light-background rounded-panel">
     버전별 최신 릴리스를 찾고 있나요?
 
     <ul class="list-divider-pipe">
